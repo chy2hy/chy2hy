@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm 陈鸿宇
 
-<!--
-**chy2hy/chy2hy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 压力
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chy2hy&label=Profile views&color=0e75b6&style=flat" alt="chy2hy" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **入门算法**
+
+- 📫 How to reach me **chy182516@qq.com**
+
+- ⚡ Fun fact **卡了**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/chy2hy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chy2hy" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a></p>
